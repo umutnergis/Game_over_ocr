@@ -37,15 +37,3 @@ Kodu Çalıştırma
 
 Ana kodu çalıştırmak için main() fonksiyonunu çağırın. Kod, oyunu izlemeye başlayacak ve "GAME OVER" metnini tespit ettiğinde Arduino'ya bir sinyal gönderecektir.
 
-scss
-Copy code
-app = ScreenShot(monitorx, monitory)
-app.main()
-Lisans
-Bu kod, MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyin.
-
-Katkıda Bulunma
-Eğer bu projeye katkıda bulunmak isterseniz, "Pull Request"lerinizi ve sorun bildirimlerinizi bekliyoruz. Proje geliştirmemize yardımcı olmak için katkıda bulunun.
-
-İletişim
-Herhangi bir soru veya geri bildirim için lütfen email@example.com adresi üzerinden bizimle iletişime geçin.
